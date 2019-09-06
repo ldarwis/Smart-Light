@@ -11,7 +11,7 @@
  
 //WiFi Connection configuration
 const char *ssid = "Darwish1";
-const char *password = "22412243";
+const char *password = "******";
  
  
 Servo myservo;  // create servo object to control a servo
